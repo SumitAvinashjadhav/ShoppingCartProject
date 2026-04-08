@@ -96,13 +96,9 @@ FurnitureShoppingCart/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
-![login Page](screenshots/Screenshot (196).png)
-![Registration Page](screenshots/Screenshot (198).png)
-![Product Page](screenshots/Screenshot (199).png)
-![About Page](screenshots/Screenshot (200).png)
-![contact Page](screenshots/Screenshot (200).png)
-![Add To cart Page](screenshots/Screenshot (202).png)
+
+![Home](screenshots/home.png)
+
 ---
 
 ## 🎯 Future Enhancements
