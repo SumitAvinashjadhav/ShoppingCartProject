@@ -101,6 +101,25 @@ FurnitureShoppingCart/
 
 ### 🏠 Home Page
 ![Home Page](EcommerceProject/screenshots/home.png)
+## 📸 Screenshots
+
+### 🏠 login Page
+![Home](EcommerceProject/screenshots/login.png)
+
+### 🔐 Registration Page
+![Login](EcommerceProject/screenshots/registration.png)
+
+### 🛒 Add to Cart
+![Cart](EcommerceProject/screenshots/addtocart.png)
+
+### 🔐 services Page
+![Login](EcommerceProject/screenshots/services.png)
+
+### 🔐 Product Page
+![Login](EcommerceProject/screenshots/product.png)
+
+### 🔐 Contact Page
+![Login](EcommerceProject/screenshots/contactus.png)
 
 
 
