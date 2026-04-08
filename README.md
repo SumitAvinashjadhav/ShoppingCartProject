@@ -97,14 +97,29 @@ FurnitureShoppingCart/
 
 ### 🏠 Home Page
 
+## 📸 Screenshots
+
+### 🏠 Home Page
 ![Home](screenshots/home.png)
-![login](screenshots/login.png)
-![registration](screenshots/registration.png)
-![product](screenshots/product.png)
-![contactus](screenshots/contactus.png)
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📝 Registration Page
+![Registration](screenshots/registration.png)
+
+### 📦 Product Page
+![Product](screenshots/product.png)
+
+### 📞 Contact Us
+![Contact](screenshots/contactus.png)
+
+### 🛠️ Services
 ![Services](screenshots/services.png)
-![Add to Cart](screenshots/addtocart.png)
----
+
+### 🛒 Add to Cart
+![Cart](screenshots/addtocart.png)
+
 
 ## 🎯 Future Enhancements
 
