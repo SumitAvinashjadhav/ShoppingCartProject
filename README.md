@@ -89,7 +89,7 @@ FurnitureShoppingCart/
 3. Import database using `furniture.sql`
 4. Deploy project on Tomcat server
 5. Run project in browser:
-   http://localhost:8080/FurnitureShoppingCart
+   http://localhost:8081/EcommerceProject/
 
 ---
 
